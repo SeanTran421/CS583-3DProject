@@ -4,6 +4,7 @@ Names of group members: Itali Pizarro Valentin, Jess Sunglao, Jordan Jace Isaacs
 
 Description of current target for the game: The target is to survive and complete all the rituals to keep the spirits at bay. All spirits should be gone for the character to be able to sell the house. 
 
+
 General goals for each person (such as art/animation/level design):
 
 Itali (Enemy AI):

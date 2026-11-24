@@ -15,4 +15,4 @@ Jordan (Rituals): The puzzles. The things the player needs to do to keep the spi
 
 JT (Player): In charge of letting the player be able to interact with the game. 
 
-Sean (Mapping/Modeling): Sketching the path that the enemy AI will take and implementing it in the game.
+Sean (Mapping/Modeling): Implementing enemy AI path into the game. Modeling the house and taking care of lighting.

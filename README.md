@@ -7,12 +7,12 @@ Description of current target for the game: The target is to survive and complet
 
 General goals for each person (such as art/animation/level design):
 
-Itali (Enemy AI):
+Itali (Enemy AI): In charge of the enemy AI that patrols the map.
 
-Jess (Audio/UI): 
+Jess (Audio/UI): Implement audio and user interface like the tutorial and menu screens.
 
-Jordan (Rituals):
+Jordan (Rituals): The puzzles. The things the player needs to do to keep the spirits at bay.
 
-JT:
+JT (Player): In charge of letting the player be able to interact with the game. 
 
-Sean:
+Sean (Mapping/Modeling): Sketching the path that the enemy AI will take and implementing it in the game.
